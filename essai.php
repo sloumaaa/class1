@@ -2,7 +2,8 @@
 //add comment
 class employe
 {
-    public $nom;
+    //declare attributes
+    public $nom; 
     public $prenom;
     public $age;
 
