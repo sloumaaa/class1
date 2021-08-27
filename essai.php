@@ -5,7 +5,7 @@ class employe
     //declare attributes
     public $nom; 
     public $prenom;
-    public $age;
+    public $age; //attribute age
 
     function __construct($nom, $prenom, $age)
     {
